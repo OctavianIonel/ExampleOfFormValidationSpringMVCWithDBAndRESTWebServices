@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ExampleOfFormValidationWithSpringMVCandDB:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="exampleofformvalidationwithspringmvcanddb.war">
+      <element id="artifact" artifact-name="ExampleOfFormValidationWithSpringMVCandDB:war exploded" />
+    </root>
+  </artifact>
+</component>
