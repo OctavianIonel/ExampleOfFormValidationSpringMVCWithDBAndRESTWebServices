@@ -46,7 +46,7 @@ public class UserController {
 
     @RequestMapping(method = RequestMethod.POST)
     public String processRegistration(@ModelAttribute("userForm")User user, Map<String, Object> model) {
-        userJDBCTemplate.create(user.getUsername(), user.getPassword(), user.getEmail(), user.getBirthday());
+        userJDBCTemplate.create(user.getUsername(), user.getPassword(), user.getEmail(), user.getBirthday(), user.getProfession());
         return "RegistrationSuccess";
     }
 }

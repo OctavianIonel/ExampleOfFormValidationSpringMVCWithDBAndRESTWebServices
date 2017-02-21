@@ -23,7 +23,7 @@ public interface UserDAO {
      * This is the method to be used to create
      * a record in the User table.
      */
-    public void create(String username, String password, String email, Date birthday);
+    public void create(String username, String password, String email, Date birthday, String profession);
 
 
 

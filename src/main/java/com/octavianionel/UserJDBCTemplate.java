@@ -19,10 +19,11 @@ public class UserJDBCTemplate implements UserDAO {
         jdbcTemplate = new JdbcTemplate(dataSource);
     }
 
-    public void create(String username, String password, String email, Date birthday) {
-        String sql = "insert into User(username, password, email, birthday) values (?, ?, ?, ?)";
-        jdbcTemplate.update(sql, username, password, email, birthday);
-        System.out.println("Created Record Username = " + username + " Password = " + password + " Email = " + email + " Birthday = " + birthday);
+    public void create(String username, String password, String email, Date birthday, String profession) {
+        String sql = "insert into User(username, password, email, birthday, profession) values (?, ?, ?, ?, ?)";
+        jdbcTemplate.update(sql, username, password, email, birthday, profession);
+        System.out.println("Created Record Username = " + username + " Password = " + password + " Email = " + email
+                + " Birthday = " + birthday + " Profession = " + profession);
     }
 
     public User getUser(Integer id) {
