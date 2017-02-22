@@ -38,7 +38,7 @@
 		<property name="driverClassName" value="com.mysql.jdbc.Driver"/>
 		<property name="url" value="jdbc:mysql://localhost:3306/formvalidation"/>
 		<property name="username" value="root"/>
-		<property name="password" value="password"/>
+		<property name="password" value="tavi1004"/>
 	</bean>
 
 	<!-- Definition for studentJDBCTemplate bean -->
