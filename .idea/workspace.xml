@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ebf9537-c447-47fe-8c87-37c8cf0e5fad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/octavianionel/Utils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/octavianionel/RESTService.class" afterPath="$PROJECT_DIR$/target/classes/com/octavianionel/RESTService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/octavianionel/UserMapper.class" afterPath="$PROJECT_DIR$/target/classes/com/octavianionel/UserMapper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/exampleofformvalidationwithspringmvcanddb/WEB-INF/classes/com/octavianionel/RESTService.class" afterPath="$PROJECT_DIR$/target/exampleofformvalidationwithspringmvcanddb/WEB-INF/classes/com/octavianionel/RESTService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/exampleofformvalidationwithspringmvcanddb/WEB-INF/classes/com/octavianionel/UserMapper.class" afterPath="$PROJECT_DIR$/target/exampleofformvalidationwithspringmvcanddb/WEB-INF/classes/com/octavianionel/UserMapper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/ExampleOfFormValidationWithSpringMVCandDB_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/ExampleOfFormValidationWithSpringMVCandDB_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExampleOfFormValidationWithSpringMVCandDB.iml" afterPath="$PROJECT_DIR$/ExampleOfFormValidationWithSpringMVCandDB.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/octavianionel/RESTService.java" afterPath="$PROJECT_DIR$/src/main/java/com/octavianionel/RESTService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/octavianionel/UserMapper.java" afterPath="$PROJECT_DIR$/src/main/java/com/octavianionel/UserMapper.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-mvc.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-mvc.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -50,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spring-mvc.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="spring-mvc.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-mvc.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="40" column="49" lean-forward="false" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="49" />
+              <caret line="40" column="51" lean-forward="false" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -80,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RESTService.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RESTService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/octavianionel/RESTService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+            <state relative-caret-position="418">
+              <caret line="68" column="7" lean-forward="true" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#878#894#0" expanded="true" />
@@ -203,10 +192,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/octavianionel/UserDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/octavianionel/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/octavianionel/UserMapper.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-mvc.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/octavianionel/Utils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/octavianionel/RESTService.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-mvc.xml" />
       </list>
     </option>
   </component>
@@ -954,12 +943,12 @@
       <updated>1487604110437</updated>
       <workItem from="1487604113425" duration="6350000" />
       <workItem from="1487667099147" duration="12782000" />
-      <workItem from="1487753926076" duration="6025000" />
+      <workItem from="1487753926076" duration="6095000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25157000" />
+    <option name="totallyTimeSpent" value="25227000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1602" height="876" extended-state="0" />
@@ -987,7 +976,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34391534" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32804233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32804233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25609756" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1358,14 +1347,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-mvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="40" column="49" lean-forward="false" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/octavianionel/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-169">
@@ -1402,13 +1383,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/octavianionel/RESTService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+        <state relative-caret-position="418">
+          <caret line="68" column="7" lean-forward="true" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#878#894#0" expanded="true" />
             <element signature="e#1124#1144#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="40" column="51" lean-forward="false" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
