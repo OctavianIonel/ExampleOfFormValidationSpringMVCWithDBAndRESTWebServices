@@ -9,5 +9,20 @@ After submitting the form, the result is shown:
 ![alternate text](https://github.com/OctavianIonel/ExampleOfFormValidationSpringMVCWithDBAndRESTWebServices/blob/master/registrationSuccessful.png)
 
 Related to REST web services:
+
+GET /getAllUsersInJSON
+
 ![alternate text](https://github.com/OctavianIonel/ExampleOfFormValidationSpringMVCWithDBAndRESTWebServices/blob/master/getAllUsersInJSON.png)
 
+POST /createUser
+Header:
+Content-Type: application/json
+Request body:
+  {
+     "username":"Alex",
+     "password":"1234",
+     "email":"alex.brown@xxx.com",
+     "birthday":"1986-06-20",
+     "profession":"Java Developer"
+  }
+![alternate text](https://github.com/OctavianIonel/ExampleOfFormValidationSpringMVCWithDBAndRESTWebServices/blob/master/createUser_POST.png)
